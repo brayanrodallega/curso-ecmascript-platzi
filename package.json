@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Brayan Rodallega <thebrayan1a1@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
